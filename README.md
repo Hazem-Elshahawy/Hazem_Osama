@@ -1,7 +1,7 @@
 # Info
 
-👨‍💻 About Me:
-I'm a passionate and detail-oriented Software Tester with a strong foundation in both manual and automation testing. I bring a comprehensive understanding of modern testing methodologies and tools, ensuring high-quality and reliable software delivery.
+##👨‍💻 About Me:
+###I'm a passionate and detail-oriented Software Tester with a strong foundation in both manual and automation testing. I bring a comprehensive understanding of modern testing methodologies and tools, ensuring high-quality and reliable software delivery.
 
 
 💡 What I Bring to the Table:
