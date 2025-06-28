@@ -4,12 +4,12 @@ I'm a passionate and detail-oriented **Software Tester** with a strong foundatio
 
 ### 💡 What I Bring to the Table
 
-- ✅ **ISTQB Foundation Level Certified** : Deep understanding of testing principles, test design techniques, and best practices.  
-- 🔁 **Agile Testing Expertise** : Skilled in working within Agile/Scrum environments, participating in daily stand-ups, sprint planning, and continuous feedback loops.  
-- 🧪 **Manual Testing Proficiency** : Experienced in designing and executing test cases using tools like **Postman** for API testing.  
-- ⚙️ **Automation Testing** : Hands-on experience with **Selenium WebDriver** and **Cucumber**, building robust automated test suites for web applications.  
-- 💻 **Programming in Java** : Solid grasp of Java for test automation and scripting purposes.  
-- 🧩 **Project & Issue Management** : Proficient in **Jira** for managing tasks, tracking bugs, and reporting progress.  
+- ✅ **ISTQB Foundation Level Certified**: Deep understanding of testing principles, test design techniques, and best practices.  
+- 🔁 **Agile Testing Expertise**: Skilled in working within Agile/Scrum environments, participating in daily stand-ups, sprint planning, and continuous feedback loops.  
+- 🧪 **Manual Testing Proficiency**: Experienced in designing and executing test cases using tools like **Postman** for API testing.  
+- ⚙️ **Automation Testing**: Hands-on experience with **Selenium WebDriver** and **Cucumber**, building robust automated test suites for web applications.  
+- 💻 **Programming in Java**: Solid grasp of Java for test automation and scripting purposes.  
+- 🧩 **Project & Issue Management**: Proficient in **Jira** for managing tasks, tracking bugs, and reporting progress.  
 
 ### 🤝 Why Work With Me?
 
