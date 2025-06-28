@@ -5,6 +5,7 @@
 I'm a passionate and detail-oriented Software Tester with a strong foundation in both manual and automation testing. I bring a comprehensive understanding of modern testing methodologies and tools, ensuring high-quality and reliable software delivery.
 
 
+
 💡 What I Bring to the Table:
 
 ✅ ISTQB Foundation Level Certified – Deep understanding of testing principles, test design techniques, and best practices.
@@ -18,6 +19,7 @@ I'm a passionate and detail-oriented Software Tester with a strong foundation in
 💻 Programming in Java – Solid grasp of Java for test automation and scripting purposes.
 
 🧩 Project & Issue Management – Proficient in Jira for managing tasks, tracking bugs, and reporting progress.
+
 
 
 🤝 Why Work With Me?
